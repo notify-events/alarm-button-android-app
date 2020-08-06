@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alarm Button</string>
+    <string name="alarm_button">ALARM</string>
+    <string name="alarm_button_submit">Alert sent</string>
+    <string name="field_token">Token</string>
+    <string name="field_token_error_length">Token must contain 32 chars (A-Za-z_-)</string>
+    <string name="field_message_title">Message title</string>
+    <string name="field_message_text">Message text</string>
+    <string name="field_message_text_error_length">Message can\'t be empty</string>
+    <string name="button_save">Save</string>
+    <string name="settings_saved">Settings saved successfully</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Тревожная кнопка</string>
+    <string name="alarm_button">ТРЕВОГА</string>
+    <string name="alarm_button_submit">Сообщение отправлено</string>
+    <string name="field_token">Токен</string>
+    <string name="field_token_error_length">Токен должен содержать 32 символа (A-Za-z_-)</string>
+    <string name="field_message_title">Заголовок сообщения</string>
+    <string name="field_message_text">Текст сообщения</string>
+    <string name="button_save">Сохранить</string>
+    <string name="field_message_text_error_length">Сообщение не может быть пустым</string>
+    <string name="settings_saved">Настройки успешно сохранены</string>
+</resources>
